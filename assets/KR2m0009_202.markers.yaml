@@ -35,6 +35,7 @@ markers:
   - {type: line-break, offset: 22, content: '', id: KR2m0009_WYG_202-1a05}
   - {type: indent, offset: 22, content: 　　, id: KR2m0009_krp_202-bkkind11}
   - {type: punctuation, offset: 23, content: (, id: KR2m0009_krp_202-bkkpn1}
+  - {type: voice, offset: 23, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 25, content: /, id: KR2m0009_krp_202-bkkpn2}
   - {type: punctuation, offset: 25, content: ), id: KR2m0009_krp_202-bkkpn3}
   - {type: 'kr:newline', offset: 25, content: '
@@ -1016,6 +1017,7 @@ markers:
       ', id: KR2m0009_krp_202-bkkkrnewl198}
   - {type: line-break, offset: 2539, content: '', id: KR2m0009_WYG_202-12a01}
   - {type: punctuation, offset: 2550, content: (, id: KR2m0009_krp_202-bkkpn4}
+  - {type: voice, offset: 2550, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2558, content: /, id: KR2m0009_krp_202-bkkpn5}
   - {type: punctuation, offset: 2558, content: ), id: KR2m0009_krp_202-bkkpn6}
   - {type: 'kr:newline', offset: 2558, content: '
@@ -1464,6 +1466,7 @@ markers:
   - {type: indent, offset: 3853, content: 　　, id: KR2m0009_krp_202-bkkind221}
   - {type: substitution, offset: 3854, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 3870, content: (, id: KR2m0009_krp_202-bkkpn7}
+  - {type: voice, offset: 3870, length: 28, name: note, id: n3}
   - {type: punctuation, offset: 3872, content: /, id: KR2m0009_krp_202-bkkpn8}
   - {type: punctuation, offset: 3874, content: ), id: KR2m0009_krp_202-bkkpn9}
   - {type: 'kr:newline', offset: 3874, content: '
@@ -2232,4 +2235,4 @@ markers:
 
       ', id: KR2m0009_krp_202-bkkkrnewl431}
   back: []
-hash: sha256:76b554672db221700a1b7c926cb8def8d47d7609eb054073f285f4b0b681147e
+hash: sha256:295ae5554c42135a3ed75bd0b2dda014e7384222aa25027329a0e13e451e04f0
